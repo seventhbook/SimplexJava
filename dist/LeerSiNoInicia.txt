@@ -1,0 +1,3 @@
+Para ejecutar el programa solo es necesario dar doble click en el .jar
+Si no se ejecuta, dar doble click sobre el ejecutable.bat
+Nota: Es necesario contar con la maquina virtual de java para poder ejecutarlo.
